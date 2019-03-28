@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Contact Us</title>
+<!-- TemplateEndEditable -->
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<style type="text/css">
+h1,h2,h3,h4,h5,h6 {
+	font-family: "marking Pen";
+}
+#apDiv3 {position: absolute;
+	left: 162px;
+	top: 202px;
+	width: 350;
+	height: 350;
+	z-index: 1;
+}
+#apDiv1 {
+	position: absolute;
+	left: 769px;
+	top: 493px;
+	width: 456px;
+	height: 274px;
+	z-index: 2;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body onload="MM_preloadImages('../About Us- Black.jpg','../Applications- Black.jpg','../Contact Us - Black.jpg')">
+<div id="apDiv1">
+  <h3>Find us on social media:</h3>
+  <table width="200" border="0">
+    <tr></tr>
+    <tr>
+      <td width="50"><a href="https://twitter.com/Twitter?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><img src="../Twitter_logo_bird_transparent_png.png" alt="Twitter Logo" width="50" height="50" align="middle" longdesc="http://twitter.com" /></a></td>
+      <td width="134" align="center" valign="middle"><div align="center"><a href="https://twitter.com/Twitter?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">@HotBeansWeb</a></div></td>
+    </tr>
+    <tr>
+      <td height="66"><a href="https://en-gb.facebook.com/"><img src="../FB Logo.png" alt="Facebook Logo" width="50" height="50" align="middle" longdesc="http://facebook.com" /></a></td>
+      <td align="center" valign="middle"><div align="center"><a href="https://en-gb.facebook.com/">Hot Beans Web</a></div></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.instagram.com/?hl=en"><img src="../IG Logo.png" alt="Instagram Logo" width="50" height="50" align="middle" longdesc="http://instagram.com" /></a></td>
+      <td height="73" align="center" valign="middle"><p align="center"><a href="https://www.instagram.com/?hl=en">@HotBeansWeb</a></p></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</div>
+<p><a href="../Hot Beans Website.html"><img src="../Hot Beans Banner V2.jpg" alt="Hot Beans Web Logo and banner displaying the Hot Beans Web title and social media platforms. " width="1400" height="180" /></a>
+</p>
+<div id="apDiv3">
+  <table width="1046" border="0">
+    <tr>
+      <th width="466" scope="col"><p><a href="../About us V2.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('About Us','','../About Us- Black.jpg',1)"><img src="../About Us- Orange (plz work this time).png" alt="About Us Rollover Button." name="About Us" width="275" height="120" id="About Us" border="0" /></a></p></th>
+      <th width="466" scope="col"><a href="../Application.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Applications','','../Applications- Black.jpg',1)"><img src="../Applications- Orange.jpg" alt="Applications Rollover Button." width="275" height="131" id="Applications" /></a></th>
+      <th width="466" scope="col"><a href="../Contact Us.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Contact Us','','../Contact Us - Black.jpg',1)"><img src="../Contact Us- Orange (JPEG).jpg" alt="Contact Us Rollover Button." width="275" height="132" id="Contact Us" /></a></th>
+    </tr>
+  </table>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1>&nbsp;</h1>
+<h1>Contact Us</h1>
+<p>For any questions or queries, please email hotbeansweb@gmail.com, or phone 08007946143</p>
+<h3>Where are we?</h3>
+<p><!-- TemplateBeginEditable name="EditRegion1" --><!-- TemplateEndEditable -->
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9865.19289747224!2d0.6374155521178001!3d51.818982434945106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8e4f04ab1cde1%3A0xc6eab42d41f51349!2sNew+Rickstones+Academy!5e0!3m2!1sen!2suk!4v1525770669415" width="700" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+<p><em></em></p>
+<h3>&nbsp;</h3>
+<p>&nbsp;</p>
+<h3>&nbsp;</h3>
+<p>&nbsp;</p>
+</body>
+</html>
